@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2010-10-01-StabilityOfScaDec
 excerpt: 'Stability validation of the ScaDec'
 date: 2018-06-09
-venue: 'Proc. iTWIST 2018'
+venue: 'Proc. iTWIST'
 paperurl: 'https://arxiv.org/abs/1806.08015'
 citation: 'Yu Sun and Ulugbek Kamilov. (2018). &quot;Stability of Scattering Decoder For Nonlinear Diffractive Imaging.&quot; <i>iTWIST 2018</i>.'
 ---
