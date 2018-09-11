@@ -15,18 +15,6 @@ Image reconstruction under multiple light scattering is crucial in a number of a
 [Download paper & implementation here](https://github.com/sunyumark/ScaDec-deep-learning-diffractive-tomography)
 
 ### Citation
-      @article{{Sun:18,
-      Author = {Yu Sun and Zhihao Xia and Ulugbek S. Kamilov},
-      Doi = {10.1364/OE.26.014678},
-      Journal = {Opt. Express},
-      Keywords = {Image reconstruction techniques; Inverse problems; Tomographic image processing; Inverse scattering},
-      Month = {May},
-      Number = {11},
-      Pages = {14678--14688},
-      Publisher = {OSA},
-      Title = {Efficient and accurate inversion of multiple scattering with deep learning},
-      Url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-26-11-14678},
-      Volume = {26},
-      Year = {2018},
-      Bdsk-Url-1 = {http://www.opticsexpress.org/abstract.cfm?URI=oe-26-11-14678},
-      Bdsk-Url-2 = {https://doi.org/10.1364/OE.26.014678}}
+
+Y. Sun, Z. Xia, and U. S. Kamilov, “Efficient and accurate inversion of multiple scattering with deep learning,” Opt. Express, vol. 26, no. 11, pp. 14678-14688, May 2018.
+
