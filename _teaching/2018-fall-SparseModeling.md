@@ -9,4 +9,4 @@ location: "St. Louis, MO"
 
 ---
 
-I was the head TA for ESE 585T Sparse Modeling for Imaging this semester. Welcome everyone stop by during my office hour! My office is 539 on the 5th floor in Jolly Hall. My time is TUE. 10:00 AM to 12:00 PM. See you then!
+I was the head TA for ESE 585T Sparse Modeling for Imaging this semester. Welcome everyone stopping by during my office hour! My office is 539 on the 5th floor in Jolly Hall. My time is TUE. 10:00 AM to 12:00 PM. See you then!
