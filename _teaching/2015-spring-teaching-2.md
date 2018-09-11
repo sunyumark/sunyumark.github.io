@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Head TA for ESE 415 Optimization"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Lecture"
+permalink: /teaching/2018-spring-optimization
+venue: "Washington University in St. Louis, ESE"
+date: 2018-02-01
+location: "St. Louis, MO"
+
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I was the head TA for ESE 415 Optimization taught by Prof. Kamilov. 
