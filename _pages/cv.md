@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Electronics and Information, Sichuan University, 2015
+* M.S. in Data Analytics & Statistics, Washington University in St. Louis, 2017
+* Ph.D in Computer Science, Washington University in St. Louis, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Developer Intern
+  * Jane.ai
+  * Duties included: Developed NLP system for the artificial intelligence Jane
+  * Supervisor: David Karandish
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - Current: Research Assistant
+  * Washington University in St. Louis
+  * Duties included: Conduct research in computational imaging
+  * Supervisor: Prof. Kamilov
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* matlab
+* Tensorflow
 
 Publications
 ======
@@ -56,4 +53,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
