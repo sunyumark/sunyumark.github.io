@@ -8,7 +8,9 @@ venue: 'Proc. iTWIST 2018'
 paperurl: 'https://arxiv.org/abs/1806.08015'
 citation: 'Yu Sun and Ulugbek Kamilov. (2018). &quot;Stability of Scattering Decoder For Nonlinear Diffractive Imaging.&quot; <i>iTWIST 2018</i>.'
 ---
-Stability validation of the ScaDec proposed in *'Efficent and accurate inversion of multiple scattering with deep learning'*
+
+### Abstract
+The problem of image reconstruction under multiple light scattering is usually formulated as a regularized nonconvex optimization. A deep learning architecture, Scattering Decoder (ScaDec), was recently proposed *'Efficent and accurate inversion of multiple scattering with deep learning'* to solve this problem in a purely data-driven fashion. The proposed method was shown to substantially outperform optimization-based baselines and achieve state-of-the-art results. In this paper, we thoroughly test the robustness of ScaDec to different permittivity contrasts, number of transmissions, and input signal-to-noise ratios. The results on high-fidelity simulated datasets show that the performance of the ScaDec is stable in different settings. 
 
 [Download paper here](https://arxiv.org/abs/1806.08015)
 
