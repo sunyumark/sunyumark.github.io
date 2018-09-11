@@ -2,7 +2,7 @@
 title: "Head TA for CSE 585T Sparse Modeling for Imaging"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/2018-spring-SparseModeling
+permalink: /teaching/2018-fall-SparseModeling
 venue: "Washington University in St. Louis, ESE"
 date: 2018-09-01
 location: "St. Louis, MO"
