@@ -6,7 +6,7 @@ excerpt: 'This paper is about using convolutional neural networks to invert mult
 date: 2018-05-28
 venue: 'Optics Express'
 paperurl: 'https://github.com/sunyumark/ScaDec-deep-learning-diffractive-tomography'
-citation: 'Y. Sun, Z. Xia, and U. S. Kamilov. (2018). &quot;Efficient and accurate inversion of multiple scattering with deep learning.&quot; <i>Optics Express</i>. 28(11).'
+citation: 'Y. Sun, Z. Xia, and U. S. Kamilov. (2018). &quot;Efficient and accurate inversion of multiple scattering with deep learning.&quot; <i>Optics Express</i>. 26(11).'
 ---
 
 ### Abstract
