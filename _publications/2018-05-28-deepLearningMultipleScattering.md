@@ -3,9 +3,9 @@ title: "Efficient and accurate inversion of multiple scattering with deep learni
 collection: publications
 permalink: /publication/2018-05-28-deepLearningMultipleScattering
 excerpt: 'This paper is about using convolutional neural networks to invert multiple scattering.'
-date: 2009-05-28
+date: 2018-05-28
 venue: 'Optics Express'
-paperurl: 'http://sunyumark.github.io/files/paper1.pdf'
+paperurl: 'https://github.com/sunyumark/ScaDec-deep-learning-diffractive-tomography'
 citation: 'Y. Sun, Z. Xia, and U. S. Kamilov. (2018). &quot;Efficient and accurate inversion of multiple scattering with deep learning.&quot; <i>Optics Express</i>. 28(11).'
 ---
 This paper is about using convolutional neural networks to invert multiple scattering.
