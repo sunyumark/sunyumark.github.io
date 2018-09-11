@@ -9,4 +9,4 @@ location: "St. Louis, MO"
 
 ---
 
-I was the TA and head TA for CSE 427S Cloud Computing and Big Data Application for 3 semesters (lol quite long journey) working with Dr. Neumann. Dr. Neumann is a fantastic person and you will learn a lot in her course!!
+I was the TA and head TA for CSE 427S Cloud Computing and Big Data Application for 3 semesters (lol quite a long journey) working with Dr. Neumann. Dr. Neumann is a fantastic person and you will learn a lot in her course!!
