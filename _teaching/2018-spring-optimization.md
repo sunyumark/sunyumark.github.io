@@ -1,7 +1,7 @@
 ---
 title: "Head TA for ESE 415 Optimization"
 collection: teaching
-type: "Lecture"
+type: "Undergrad & Graduate Course"
 permalink: /teaching/2018-spring-optimization
 venue: "Washington University in St. Louis, ESE"
 date: 2018-02-01
