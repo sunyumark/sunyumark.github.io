@@ -9,4 +9,4 @@ location: "St. Louis, MO"
 
 ---
 
-I was the the TA for CSE 427S Cloud Computing and Big Data Application under supervision of Dr. Neumann.
+I was the TA for CSE 427S Cloud Computing and Big Data Application under supervision of Dr. Neumann. 
