@@ -1,7 +1,7 @@
 ---
 title: "Stability of Scattering Decoder For Nonlinear Diffractive Imaging"
 collection: publications
-permalink: /publication/2010-10-01-StabilityOfScaDec
+permalink: /publication/2018-06-09-StabilityOfScaDec
 excerpt: 'Stability validation of the ScaDec'
 date: 2018-06-09
 venue: 'Proc. iTWIST'
