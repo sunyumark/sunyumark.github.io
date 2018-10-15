@@ -16,5 +16,5 @@ Image reconstruction under multiple light scattering is crucial in a number of a
 
 ### Citation
 
-Y. Sun, Z. Xia, and U. S. Kamilov, “Efficient and accurate inversion of multiple scattering with deep learning,” Opt. Express, vol. 26, no. 11, pp. 14678-14688, May 2018.
+__Y. Sun__, Z. Xia, and U. S. Kamilov, “Efficient and accurate inversion of multiple scattering with deep learning,” Opt. Express, vol. 26, no. 11, pp. 14678-14688, May 2018.
 
