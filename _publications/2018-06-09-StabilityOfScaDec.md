@@ -16,4 +16,4 @@ The problem of image reconstruction under multiple light scattering is usually f
 
 ### Citation
 
-Y. Sun and U. S. Kamilov, “Stability of Scattering Decoder For Nonlinear Diffractive Imaging,” Proc. 4th International Traveling Workshop on Interactions between Sparse models and Technology (iTWIST 2018) (Marseille, France, November 21-23), in press.
+__Y. Sun__ and U. S. Kamilov, “Stability of Scattering Decoder For Nonlinear Diffractive Imaging,” Proc. 4th International Traveling Workshop on Interactions between Sparse models and Technology (iTWIST 2018) (Marseille, France, November 21-23), in press.
