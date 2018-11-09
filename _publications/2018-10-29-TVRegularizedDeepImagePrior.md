@@ -1,4 +1,3 @@
-
 ---
 title: "Image Restoration using Total Variation Regularized Deep Image Prior"
 collection: publications
