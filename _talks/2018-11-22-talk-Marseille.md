@@ -8,4 +8,4 @@ date: 2018-11-22
 location: "Marseille, France"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+Inverting multiple scattering is a critical problem in many imaging applications such as microwave imaging and optical diffraction tomography (ODT)
