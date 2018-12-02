@@ -1,9 +1,9 @@
 ---
-title: "Presentation on Efficient and Accurate Inversion of Multiple Scattering with Deep Learning"
+title: "Talk on Efficient and Accurate Inversion of Multiple Scattering with Deep Learning"
 collection: talks
 type: "Talk"
 permalink: /talks/2018-11-22-talk-Marseille
-venue: "Centre International de Rencontres Mathématiques (CIRM)"
+venue: "international Traveling Workshop on Interactions between low-complexity data models and Sensing Techniques (iTWIST'18) at Centre International de Rencontres Mathématiques (CIRM)"
 date: 2018-11-22
 location: "Marseille, France"
 ---
