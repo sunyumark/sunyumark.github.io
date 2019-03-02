@@ -6,7 +6,7 @@ excerpt: 'The plug-and-play priors (PnP) framework has been recently shown to ac
 date: 2018-10-29
 venue: 'arXiv (cs.CV)'
 paperurl: 'https://arxiv.org/abs/1811.00120'
-citation: 'Y. Sun, Shiqi Xu, Yunzhe Li, Lei Tian, B. Wohlberg, and U. S. Kamilov, &quot;Regularized Fourier Ptychography Using An Online Plug-and-play Algorithm.&quot;'
+citation: 'Y. Sun, Shiqi Xu, Yunzhe Li, Lei Tian, B. Wohlberg, and U. S. Kamilov, &quot;Regularized Fourier Ptychography Using An Online Plug-and-play Algorithm.&quot; Proc. IEEE Int. Conf. Acoustics, Speech and Signal Process. (ICASSP 2019) (Brighton, UK, May 12-17), in press.'
 ---
 
 ### Abstract
@@ -14,4 +14,4 @@ The plug-and-play priors (PnP) framework has been recently shown to achieve stat
 
 
 ### Citation
-__Y. Sun__, Shiqi Xu, Yunzhe Li, Lei Tian, B. Wohlberg, and U. S. Kamilov, “Regularized Fourier Ptychography Using An Online Plug-and-play Algorithm.”
+__Y. Sun__, Shiqi Xu, Yunzhe Li, Lei Tian, B. Wohlberg, and U. S. Kamilov, “Regularized Fourier Ptychography using an Online Plug-and-Play Algorithm,” Proc. IEEE Int. Conf. Acoustics, Speech and Signal Process. (ICASSP 2019) (Brighton, UK, May 12-17), in press.
