@@ -6,7 +6,7 @@ excerpt: 'We consider the problem of estimating a vector from its noisy measurem
 date: 2019-05-13
 venue: 'NeurIPS'
 paperurl: 'https://128.84.21.199/abs/1905.05113'
-citation: 'Y. Sun, J. Liu, and U. S. Kamilov, &quot;Block Coordinate Regularization by Denoising&quot; Proc. Ann. Conf. Neural Information Processing Systems (NeurIPS 2019) (Vancouver, Canada, December 8-14), in press.'
+citation: 'Y. Sun, J. Liu, and U. S. Kamilov, &quot;Block Coordinate Regularization by Denoising&quot;, Proc. Ann. Conf. Neural Information Processing Systems (NeurIPS 2019) (Vancouver, Canada, December 8-14), in press.'
 ---
 
 ### Abstract
