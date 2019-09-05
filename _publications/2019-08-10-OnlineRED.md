@@ -1,7 +1,7 @@
 ---
 title: "Online Regularization by Denoising with Applications to Phase Retrieval"
 collection: publications
-permalink: /publication/2019-08-10-OnlineRED.md
+permalink: /publication/2019-08-10-OnlineRED
 excerpt: 'Regularization by denoising (RED) is a powerful frame- work for solving imaging inverse problems. Most RED algorithms are iterative batch procedures, which limits their applicability to very large datasets. In this paper, we address this limitation by introducing a novel online RED (On-RED) algorithm, which processes a small subset of the data at a time. We establish the theoretical convergence of On-RED in convex settings and empirically discuss its effectiveness in non-convex ones by illustrating its applicability to phase retrieval. Our results suggest that On-RED is an effective alternative to the traditional RED algorithms when dealing with large datasets.'
 date: 2019-08-10
 venue: 'ICCVW'
