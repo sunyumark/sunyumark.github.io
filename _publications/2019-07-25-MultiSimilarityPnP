@@ -6,7 +6,7 @@ excerpt: 'Recent work has shown the effectiveness of the plug-and-play priors (P
 date: 2019-07-25
 venue: 'arXiv[cs:IV]'
 paperurl: 'https://arxiv.org/abs/1907.11793'
-citation: 'Y. Sun, J. Liu, and U. S. Kamilov, &quot;A New Recurrent Plug-and-Play Prior Based on the Multiple Self-Similarity Network&quot;'
+citation: 'G. Song, Y. Sun, J. Liu, and U. S. Kamilov, &quot;A New Recurrent Plug-and-Play Prior Based on the Multiple Self-Similarity Network&quot;'
 ---
 
 ### Abstract
@@ -15,4 +15,4 @@ Recent work has shown the effectiveness of the plug-and-play priors (PnP) framew
 [Download arXiv here](https://arxiv.org/abs/1907.11793)
 
 ### Citation
-__Y. Sun__, J. Liu, and U. S. Kamilov, “A New Recurrent Plug-and-Play Prior Based on the Multiple Self-Similarity Network”, arXiv:1907.11793.
+G. Song, __Y. Sun__, J. Liu, and U. S. Kamilov, “A New Recurrent Plug-and-Play Prior Based on the Multiple Self-Similarity Network”, arXiv:1907.11793.
