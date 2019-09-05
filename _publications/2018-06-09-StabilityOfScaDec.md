@@ -6,7 +6,7 @@ excerpt: 'The problem of image reconstruction under multiple light scattering is
 date: 2018-06-09
 venue: 'Proc. iTWIST'
 paperurl: 'https://arxiv.org/abs/1806.08015'
-citation: 'Y. Sun and U. S. Kamilov. &quot;Stability of Scattering Decoder For Nonlinear Diffractive Imaging.&quot;(Oral) <i>iTWIST 2018</i>.'
+citation: 'Y. Sun and U. S. Kamilov, “Stability of Scattering Decoder For Nonlinear Diffractive Imaging,” Proc. 4th International Traveling Workshop on Interactions between Sparse models and Technology (iTWIST 2018) (Marseille, France, November 21-23), p. 31. <i>iTWIST 2018</i>.'
 ---
 
 ### Abstract
