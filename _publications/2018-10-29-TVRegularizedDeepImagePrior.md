@@ -6,7 +6,7 @@ excerpt: 'In the past decade, sparsity-driven regularization has led to signific
 date: 2018-10-29
 venue: 'arXiv (cs.CV)'
 paperurl: 'https://arxiv.org/abs/1810.12864'
-citation: 'J. Liu, Y. Sun, X. Xu, and U. S. Kamilov, &quot;Image Restoration using Total Variation Regularized Deep Image Prior.&quot; Proc. IEEE Int. Conf. Acoustics, Speech and Signal Process. (ICASSP 2019) (Brighton, UK, May 12-17), in press'
+citation: 'J. Liu, Y. Sun, X. Xu, and U. S. Kamilov, &quot;Image Restoration using Total Variation Regularized Deep Image Prior.&quot; Proc. IEEE Int. Conf. Acoustics, Speech and Signal Process. (ICASSP 2019) (Brighton, UK, May 12-17), p.7715-7719'
 ---
 
 ### Abstract
@@ -15,4 +15,4 @@ In the past decade, sparsity-driven regularization has led to significant improv
 Download the paper [here](https://arxiv.org/abs/1810.12864)
 
 ### Citation
-J. Liu, __Y. Sun__, X. Xu, and U. S. Kamilov, “Image Restoration using Total Variation Regularized Deep Image Prior,” Proc. IEEE Int. Conf. Acoustics, Speech and Signal Process. (ICASSP 2019) (Brighton, UK, May 12-17), in press.
+J. Liu, __Y. Sun__, X. Xu, and U. S. Kamilov, “Image Restoration using Total Variation Regularized Deep Image Prior,” Proc. IEEE Int. Conf. Acoustics, Speech and Signal Process. (ICASSP 2019) (Brighton, UK, May 12-17), p.7715-7719.
