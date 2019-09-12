@@ -2,11 +2,11 @@
 title: "Regularized Fourier Ptychography Using An Online Plug-and-play Algorithm"
 collection: publications
 permalink: /publication/2018-10-29-FourierPtychographyPPP
-excerpt: ''
+excerpt:
 date: 2019-5-20
 venue: 'ICASSP'
-paperurl: 'https://arxiv.org/abs/1811.00120'
-citation: 'Y. Sun, Shiqi Xu, Yunzhe Li, Lei Tian, B. Wohlberg, and U. S. Kamilov, &quot;Regularized Fourier Ptychography Using An Online Plug-and-play Algorithm.&quot; Proc. IEEE Int. Conf. Acoustics, Speech and Signal Process. (ICASSP 2019) (Brighton, UK, May 12-17), p.7665-7669.'
+paperurl:
+citation:
 ---
 
 ### Abstract
