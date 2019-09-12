@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2019-08-10-OnlineRED
 excerpt: ''
 date: 2019-08-10
-venue: 'ICCVW'
-paperurl: ''
-citation: 'Z. Wu, Y. Sun, J. Liu, and U. S. Kamilov, &quot;Online Regularization by Denoising with Applications to Phase Retrieval&quot;,Proc. IEEE Int. Conf. Comp. Vis. Workshops (ICCVW 2019) (Seoul, South Korea, Oct 27 – Nov 2), in press.'
+venue: 'Learning for Computational Imaging, ICCV'
+paperurl:
+citation:
 ---
 
 ### Abstract
