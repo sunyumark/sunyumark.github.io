@@ -2,11 +2,11 @@
 title: "Image Restoration using Total Variation Regularized Deep Image Prior"
 collection: publications
 permalink: /publication/2018-10-29-TVRegularizedDeepImagePrior
-excerpt: ''
+excerpt:
 date: 2019-5-20
 venue: 'ICASSP'
-paperurl: 'https://arxiv.org/abs/1810.12864'
-citation: 'J. Liu, Y. Sun, X. Xu, and U. S. Kamilov, &quot;Image Restoration using Total Variation Regularized Deep Image Prior.&quot; Proc. IEEE Int. Conf. Acoustics, Speech and Signal Process. (ICASSP 2019) (Brighton, UK, May 12-17), p.7715-7719'
+paperurl:
+citation:
 ---
 
 ### Abstract
