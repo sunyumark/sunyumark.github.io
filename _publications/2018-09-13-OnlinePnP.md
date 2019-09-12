@@ -2,7 +2,7 @@
 title: "An Online Plug-and-Play Algorithm for Regularized Image Reconstruction"
 collection: publications
 permalink: /publication/2018-09-13-OnlinePnP
-excerpt:
+excerpt: ''
 date: 2019-01-13
 venue: 'IEEE Trans. Comput. Imag.'
 paperurl:
