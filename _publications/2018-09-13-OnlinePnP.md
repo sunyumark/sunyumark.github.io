@@ -2,11 +2,11 @@
 title: "An Online Plug-and-Play Algorithm for Regularized Image Reconstruction"
 collection: publications
 permalink: /publication/2018-09-13-OnlinePnP
-excerpt: ''
+excerpt:
 date: 2019-01-13
 venue: 'IEEE Trans. Comput. Imag.'
-paperurl: 'https://ieeexplore.ieee.org/document/8616843/metrics#metrics'
-citation: 'Y. Sun, B. Wohlberg, and U. S. Kamilov, &quot;An Online Plug-and-Play Algorithm for Regularized Image Reconstruction&quot;, IEEE Trans. Comput. Imag., vol. 5, no. 3, pp. 395-408.'
+paperurl:
+citation:
 ---
 
 ### Abstract
