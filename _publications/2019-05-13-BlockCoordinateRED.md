@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-05-13-BlockCoordinateRED
 excerpt:
 date: 2019-09-04
-venue: 'NeurIPS 2019'
+venue: 'NeurIPS'
 paperurl:
 citation:
 ---
