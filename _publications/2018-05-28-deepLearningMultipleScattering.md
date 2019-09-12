@@ -2,7 +2,7 @@
 title: "Efficient and accurate inversion of multiple scattering with deep learning"
 collection: publications
 permalink: /publication/2018-05-28-deepLearningMultipleScattering
-excerpt:
+excerpt: ''
 date: 2018-05-28
 venue: 'Optics Express'
 paperurl:
