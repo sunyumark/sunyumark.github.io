@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2018-05-28-deepLearningMultipleScattering
 date: 2018-05-28
 venue: 'Optics Express'
-
 ---
 
 ### Abstract
