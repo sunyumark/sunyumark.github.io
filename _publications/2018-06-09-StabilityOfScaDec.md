@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-06-09-StabilityOfScaDec
 excerpt:
 date: 2018-06-09
-venue: 'iTWIST 2018'
+venue: 'iTWIST'
 paperurl:
 citation:
 ---
