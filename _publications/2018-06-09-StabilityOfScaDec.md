@@ -2,7 +2,7 @@
 title: "Stability of Scattering Decoder For Nonlinear Diffractive Imaging"
 collection: publications
 permalink: /publication/2018-06-09-StabilityOfScaDec
-excerpt:
+excerpt: ''
 date: 2018-06-09
 venue: 'iTWIST'
 paperurl:
