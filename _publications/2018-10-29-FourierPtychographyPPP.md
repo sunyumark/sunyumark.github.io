@@ -2,7 +2,7 @@
 title: "Regularized Fourier Ptychography Using An Online Plug-and-play Algorithm"
 collection: publications
 permalink: /publication/2018-10-29-FourierPtychographyPPP
-excerpt:
+excerpt: ''
 date: 2019-5-20
 venue: 'ICASSP'
 paperurl:
