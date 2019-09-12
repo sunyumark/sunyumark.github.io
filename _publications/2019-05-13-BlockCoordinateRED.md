@@ -2,7 +2,7 @@
 title: "Block Coordinate Regularization by Denoising"
 collection: publications
 permalink: /publication/2019-05-13-BlockCoordinateRED
-excerpt:
+excerpt: ''
 date: 2019-09-04
 venue: 'NeurIPS'
 paperurl:
