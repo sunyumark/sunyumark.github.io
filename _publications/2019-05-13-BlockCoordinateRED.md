@@ -2,11 +2,11 @@
 title: "Block Coordinate Regularization by Denoising"
 collection: publications
 permalink: /publication/2019-05-13-BlockCoordinateRED
-excerpt: ''
+excerpt:
 date: 2019-09-04
-venue: 'NeurIPS'
-paperurl: 'https://128.84.21.199/abs/1905.05113'
-citation: 'Y. Sun, J. Liu, and U. S. Kamilov, &quot;Block Coordinate Regularization by Denoising&quot;, Proc. Ann. Conf. Neural Information Processing Systems (NeurIPS 2019) (Vancouver, Canada, December 8-14), in press.'
+venue: 'NeurIPS 2019'
+paperurl:
+citation:
 ---
 
 ### Abstract
