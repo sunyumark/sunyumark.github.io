@@ -2,11 +2,11 @@
 title: "Stability of Scattering Decoder For Nonlinear Diffractive Imaging"
 collection: publications
 permalink: /publication/2018-06-09-StabilityOfScaDec
-excerpt: ''
+excerpt:
 date: 2018-06-09
-venue: 'Proc. iTWIST'
-paperurl: 'https://arxiv.org/abs/1806.08015'
-citation: 'Y. Sun and U. S. Kamilov, &quot;Stability of Scattering Decoder For Nonlinear Diffractive Imaging&quot;, Proc. 4th International Traveling Workshop on Interactions between Sparse models and Technology (iTWIST 2018) (Marseille, France, November 21-23), p. 31.'
+venue: 'iTWIST 2018'
+paperurl:
+citation:
 ---
 
 ### Abstract
