@@ -2,11 +2,11 @@
 title: "A New Recurrent Plug-and-Play Prior Based on the Multiple Self-Similarity Network"
 collection: publications
 permalink: /publication/2019-07-25-MultiSimilarityPnP
-excerpt: ''
+excerpt:
 date: 2019-07-25
 venue: 'arXiv[cs:IV]'
-paperurl: 'https://arxiv.org/abs/1907.11793'
-citation: 'G. Song, Y. Sun, J. Liu, and U. S. Kamilov, &quot;A New Recurrent Plug-and-Play Prior Based on the Multiple Self-Similarity Network&quot;'
+paperurl:
+citation:
 ---
 
 ### Abstract
