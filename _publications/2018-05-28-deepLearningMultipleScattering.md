@@ -6,7 +6,7 @@ excerpt: ''
 date: 2018-05-28
 venue: 'Optics Express'
 paperurl:
-citation:
+citation: '__Y. Sun__, Z. Xia, and U. S. Kamilov, &quot Efficient and accurate inversion of multiple scattering with deep learning,&quot Opt. Express, vol. 26, no. 11, pp. 14678-14688, May 2018.'
 ---
 
 ### Abstract
