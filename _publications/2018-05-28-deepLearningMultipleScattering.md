@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2018-05-28-deepLearningMultipleScattering
 excerpt:''
 date: 2018-05-28
-venue:''
-paperurl:''
-citation:''
+venue:
+paperurl:
+citation:
 ---
 
 ### Abstract
