@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ### Hi! Welcome to Yu Sun's website!
-I am Yu Sun and a second-year Ph.D student in the Computational Imaging Group (CIG) with the Department of CSE at Washington University in St. Louis (Wash U). CIG is a super cool place, and we develop cutting-edge technologies in computational imaging.
+I am Yu Sun, a second-year Ph.D student in the Computational Imaging Group (CIG) with the Department of CSE at Washington University in St. Louis (Wash U). CIG is a super cool place, and we develop cutting-edge technologies in computational imaging.
 
 Before I joined the lab, I received B.Eng. and M.S. from Sichuan Univiesity and Washingtion University in St. Louis in 2015 and 2017, respectively. I love my college (SCU), where I had an extremely colorful lifte there. Also, the city Chengdu (where my college is) is ‘a city you will never want to leave once you come.’
 
