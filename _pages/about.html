@@ -1,0 +1,39 @@
+---
+permalink: /
+layout: archive
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
+I am a second-year Ph.D student in the <a href="https://cigroup.wustl.edu/">Computational Imaging Group</a> with the Department of CSE at Washington University in St. Louis. CIG is a super cool place, and we develop cutting-edge technologies in computational imaging. Before I joined the lab, I received B.Eng. and M.S. from Sichuan Univiesity and Washingtion University in St. Louis in 2015 and 2017, respectively. I love my college, where I had an extremely colorful lifte there. Also, the city Chengdu (where my college is) is ‘a city you will never want to leave once you come.’
+
+Currently, my research of interests include imaging with deep learning, PnP/RED algorithms, and large-scale distributed algorithms. 
+Feel free to follow me if you think my research is interesting! Reading books is my biggest hobby. You can find my *reading list* (Chinese version, English verison soon) [here](/files/reading_list.pdf).
+
+<p>&nbsp;</p>
+
+<h1> News </h1>
+
+{% include base_path %}
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.posts %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<div style="display: none;">
+  <h6>Page views:</h6>
+  <a href="https://www.hitwebcounter.com" target="_blank">
+  <img src="https://hitwebcounter.com/counter/counter.php?page=7680519&style=0007&nbdigits=5&type=page&initCount=0" title="Total Website Hits" Alt="Web Hits" border="0" /></a>
+  <h6>Unique visitors</h6>
+  <a href="https://www.hitwebcounter.com" target="_blank">
+  <img src="https://hitwebcounter.com/counter/counter.php?page=7680520&style=0007&nbdigits=5&type=ip&initCount=0" title="Total Website Hits" Alt="Web Hits" border="0" /></a>
+</div>

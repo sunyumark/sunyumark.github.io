@@ -7,18 +7,19 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sun, Yu"
+title                    : "Yu Sun"
 title_separator          : "-"
-name                     : &name "Sun, Yu"
-description              : &description "Ph.D in CS"
-url                      : https://sunyumark.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yu Sun"
+description              : &description "personal description"
+url                      : "https://sunyumark.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sunyumark.github.io"
+repository               : "sunyumark/sunyumark.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -79,13 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sun, Yu"
-  avatar           : "profile.jpg"
-  bio              : "Ph.D Student at Washington University in St. Louis"
+  name             : "Yu Sun 孙彧"
+  avatar           : "photo.png"
+  bio              : "PhD candidate @ WUSTL CIG"
   location         : "St. Louis, MO"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=5c52t54AAAAJ&hl=en"
-  email            : "sun.yu@wustl.edu"
+  pubmed           :
+  googlescholar    : &googlescholar "https://scholar.google.com/citations?hl=en&user=5c52t54AAAAJ"
+  email            :
+  researchgate     : "https://www.researchgate.net/profile/Yu_Sun145"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,9 +100,10 @@ author:
   google_plus      :
   keybase          :
   instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : "yu-sun-431121105"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -125,22 +129,23 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
   - CHANGELOG
-  - config
+  - Capfile
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
   - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
   - log
   - node_modules
   - package.json
-  - Rakefile
-  - README
   - tmp
+  - vendor
 keep_files:
   - .git
   - .svn
@@ -254,7 +259,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
