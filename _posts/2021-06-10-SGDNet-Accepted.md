@@ -1,5 +1,5 @@
 ---
-title: 'ICLR paper accepted'
+title: 'SGD-Net accepted'
 date: 2021-06-10
 ---
 
