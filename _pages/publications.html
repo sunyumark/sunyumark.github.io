@@ -8,43 +8,6 @@ author_profile: true
 {% include base_path %}
 
 <style>
-
-venue {
-  background-color: #F39C12;
-  color: white;
-  /*border: 4px solid #F39C12;*/
-  text-align: center;
-  text-decoration: none;
-  border-radius: 5px;
-  padding: 5px;
-  /*box-shadow: 0 1px 1px darkslategray;*/
-  display: inline-block;
-}
-
-arxiv {
-  background-color: white;
-  color: #5DADE2;
-  border: 4px solid #5DADE2;
-  text-align: center;
-  text-decoration: none;
-  border-radius: 5px;
-  padding: 5px;
-  /*box-shadow: 0 1px 1px darkslategray;*/
-  display: inline-block;
-}
-
-project {
-  background-color: white;
-  color: #9FE2BF;
-  border: 4px solid #9FE2BF;
-  text-align: center;
-  text-decoration: none;
-  border-radius: 5px;
-  padding: 5px;
-  /*box-shadow: 0 1px 1px darkslategray;*/
-  display: inline-block;
-}
-
 div.title,div.ftheader,span.venue,span.highlight{font-weight:600}
 h4,div.title,{font-size:100%}
 img.img_responsive{width:100%;height:auto;display:block}
@@ -91,6 +54,34 @@ span.highlight a:visited{color:#BB2222}
 */span.fullvenue{padding-left:8px}
 div.anchor{border-top:50px solid transparent;margin-top:-50px}
 div.recruit{display:none}
+
+.button {
+  background-color: #F39C12;
+  color: white;
+  /*border: 4px solid #F39C12;*/
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  padding: 5px;
+  /*box-shadow: 0 1px 1px darkslategray;*/
+  display: inline-block;
+}
+
+.venue {
+  background-color: #F39C12;
+  color: white;
+}
+
+.arxiv {
+  color: #5DADE2;
+  border: 2px solid #5DADE2;
+}
+
+.project {
+  color: #9FE2BF;
+  border: 2px solid #9FE2BF;
+}
+
 </style>
 
 <h2 id="{{ year | slugify }}" class="archive__subtitle">2022</h2>
@@ -116,7 +107,7 @@ div.recruit{display:none}
 
   <div>&nbsp;</div>
   <div class="publication">
-    <div class="img"><img class="img_responsive" src="/images/cure.png"></div>
+    <div class="img"><img class="img_responsive" src="/images/cure.jpeg"></div>
     <div class="text">
       <div class="title"><strong>CURE: Learning Cross-Video Neural Representations for High-Quality Frame Interpolation</strong></div>
       <div class="authors">
