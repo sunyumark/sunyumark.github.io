@@ -11,6 +11,7 @@ author_profile: true
 div.title,div.ftheader,span.venue,span.highlight{font-weight:600}
 h4,div.title,{font-size:100%}
 img.img_responsive{width:100%;height:auto;display:block}
+img.img_thumbnail{width:100%;height:auto;display:block}
 div.ftheader a:link,
 div.ftheader a:visited,
 div.ftsubheader a:link,
@@ -41,7 +42,7 @@ div.heading div.img{padding:30px 30px 30px 10px;max-width:30%}
 div.heading div.img img{width:200px}
 div.heading span.tag{padding-right:15px}
 div.heading ul{padding-bottom:0px}
-div.publication{padding-top:0px;padding-bottom:20px}
+div.publication{height:400px;padding-top:0px;padding-bottom:20px}
 div.publication div.img{max-width:300px;padding-right:0px;padding-top:5px}
 div.publication div.text{max-width:650px;text-align:left;vertical-align:top}
 div.authors{font-size:100%;color:#777777}
@@ -56,13 +57,56 @@ div.recruit{display:none}
 </style>
 
 
+<h2 id="{{ year | slugify }}" class="archive__subtitle">2022</h2>
+  <div>&nbsp;</div>
+  <div class="publication">
+    <div class="img"><img class="img_thumbnail" src="/images/modir.png"></div>
+    <div class="text">
+      <div class="title"><strong>Zero-Shot Learning of Continuous 3D Refractive Index Maps from Discrete Intensity-Only Measurements</strong></div>
+      <div class="authors">
+        <span class="author"><a href="https://www.linkedin.com/in/renhao-liu/">Renhao Liu*</a></span>,
+        <span class="author me">Yu Sun*</span>,
+        <span class="author"><a href="https://scholar.google.com/citations?user=c4gKZywAAAAJ&hl=en">Renhao Liu</a></span>,
+        <span class="author"><a href="https://sites.bu.edu/tianlab/">Lei Tian</a></span>,
+        <span class="author"><a href="https://cigroup.wustl.edu/">U. S. Kamilov</a></span>
+      </div>
+      <div>
+        <span class="tag"><a href="https://arxiv.org/abs/2112.00002">arXiv</a></span>
+      </div>
+    </div>
+  </div>
+  <p></p>
+  <p></p>
+
+
+  <div>&nbsp;</div>
+  <div class="publication">
+    <div class="img"><img class="img_thumbnail" src="/images/modir.png"></div>
+    <div class="text">
+      <div class="title"><strong>CURE: Learning Cross-Video Neural Representations for High-Quality Frame Interpolation</strong></div>
+      <div class="authors">
+        <span class="author"><a href="http://www.wshangguan.com/">Wentao Shangguan*</a></span>,
+        <span class="author me">Yu Sun*</span>,
+        <span class="author"><a href="https://scholar.google.com/citations?user=Ib20Ge0AAAAJ&hl=en">Weijie Gan</a></span>,
+        <span class="author"><a href="https://cigroup.wustl.edu/">U. S. Kamilov</a></span>
+      </div>
+      <div>
+        <span class="tag"><a href="">ECCV</a></span>
+        <span class="tag"><a href="https://arxiv.org/abs/2203.00137">arXiv</a></span>
+        <span class="tag"><a href="https://www.cse.wustl.edu/~kamilov/projects/2022/cure/">Project Webpage</a></span>
+      </div>
+    </div>
+  </div>
+  <p></p>
+  <p></p>
+
+
 <h2 id="{{ year | slugify }}" class="archive__subtitle">2021</h2>
   <div>&nbsp;</div>
   <div class="publication">
     <div class="img"><img class="img_responsive" src="/images/modir.png"></div>
     <div class="text">
-      <div class="title"><a name="Gan-etal21">
-MoDIR: Motion-Compensated Training for Deep Image Reconstruction without Ground Truth</a></div>
+      <div class="title"><strong>MoDIR: Motion-Compensated Training for Deep Image Reconstruction without Ground Truth</strong></div>
       <div class="authors">
         <span class="author"><a href="https://scholar.google.com/citations?user=Ib20Ge0AAAAJ&hl=en">Weijie Gan</a></span>,
         <span class="author me">Yu Sun</span>,
@@ -83,7 +127,7 @@ MoDIR: Motion-Compensated Training for Deep Image Reconstruction without Ground 
   <div class="publication">
     <div class="img"><img class="img_responsive" src="/images/coil.jpeg"></div>
     <div class="text">
-      <div class="title"><a name="Sun-etal21">CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems</a></div>
+      <div class="title"><strong>CoIL: Coordinate-based Internal Learning for Imaging Inverse Problems</strong></div>
       <div class="authors">
         <span class="author me">Yu Sun</span>,
         <span class="author"><a href="https://scholar.google.com/citations?user=KEucBooAAAAJ&hl=en">Jiaming Liu</a></span>,
@@ -103,7 +147,7 @@ MoDIR: Motion-Compensated Training for Deep Image Reconstruction without Ground 
   <div class="publication">
     <div class="img"><img class="img_responsive" src="/images/SGD-net.png"></div>
     <div class="text">
-      <div class="title"><a name="Sun-etal21">SGD-Net: Efficient Model-Based Deep Learning with Theoretical Guarantees</a></div>
+      <div class="title"><strong>SGD-Net: Efficient Model-Based Deep Learning with Theoretical Guarantees</strong></div>
       <div class="authors">
         <span class="author"><a href="https://scholar.google.com/citations?user=KEucBooAAAAJ&hl=en">Jiaming Liu</a></span>,
         <span class="author me">Yu Sun</span>,
@@ -125,7 +169,7 @@ MoDIR: Motion-Compensated Training for Deep Image Reconstruction without Ground 
   <div class="publication">
     <div class="img"><img class="img_responsive" src="/images/asyncRed.png"></div>
     <div class="text">
-      <div class="title"><a name="Sun-etal21">Async-RED: A Provably Convergent Asynchronous Block Parallel Stochastic Method using Deep Denoising Priors</a></div>
+      <div class="title"><strong>Async-RED: A Provably Convergent Asynchronous Block Parallel Stochastic Method using Deep Denoising Priors</strong></div>
       <div class="authors">
         <span class="author me">Yu Sun</span>,
         <span class="author"><a href="https://scholar.google.com/citations?user=KEucBooAAAAJ&hl=en">Jiaming Liu</a></span>,
@@ -148,7 +192,7 @@ MoDIR: Motion-Compensated Training for Deep Image Reconstruction without Ground 
   <div class="publication">
     <div class="img"><img class="img_responsive" src="/images/Sun-etal20.png"></div>
     <div class="text">
-      <div class="title"><a name="Sun-etal20">Scalable Plug-and-Play ADMM with Convergence Guarantees</a></div>
+      <div class="title"><strong>Scalable Plug-and-Play ADMM with Convergence Guarantees</strong></div>
       <div class="authors">
         <span class="author me">Yu Sun*</span>,
         <span class="author"><a href="https://zihuiwu.github.io/">Zihui Wu*</a></span>,
@@ -169,7 +213,7 @@ MoDIR: Motion-Compensated Training for Deep Image Reconstruction without Ground 
   <div class="publication">
     <div class="img"><img class="img_responsive" src="/images/Xu-etal20.png"></div>
     <div class="text">
-      <div class="title"><a name="Xu-etal20">Provable Convergence of Plug-and-Play Priors With MMSE Denoisers</a></div>
+      <div class="title"><strong>Provable Convergence of Plug-and-Play Priors With MMSE Denoisers</strong></div>
       <div class="authors">
         <span class="author"><a href="https://scholar.google.com/citations?user=jdNOtqwAAAAJ&hl=en">Xiaojian Xu</a></span>,
         <span class="author me">Yu Sun</span>,
@@ -190,7 +234,7 @@ MoDIR: Motion-Compensated Training for Deep Image Reconstruction without Ground 
   <div class="publication">
     <div class="img"><img class="img_responsive" src="/images/Xie-etal20.png"></div>
     <div class="text">
-      <div class="title"><a name="Xu-etal20">Joint Reconstruction and Calibration using Regularization by Denoising</a></div>
+      <div class="title"><strong>Joint Reconstruction and Calibration using Regularization by Denoising</strong></div>
       <div class="authors">
         <span class="author">Mingyang Xie</span>,
         <span class="author me">Yu Sun</span>,
@@ -210,7 +254,7 @@ MoDIR: Motion-Compensated Training for Deep Image Reconstruction without Ground 
   <div class="publication">
     <div class="img"><img class="img_responsive" src="/images/Wu-etal20.png"></div>
     <div class="text">
-      <div class="title"><a name="Wu-etal20" color:="red">SIMBA: Scalable Inversion in Optical Tomography using Deep Denoising Priors</a></div>
+      <div class="title"><strong>SIMBA: Scalable Inversion in Optical Tomography using Deep Denoising Priors</strong></div>
       <div class="authors">
         <span class="author"><a href="https://zihuiwu.github.io/">Zihui Wu</a></span>,
         <span class="author me">Yu Sun</span>,
@@ -232,7 +276,7 @@ MoDIR: Motion-Compensated Training for Deep Image Reconstruction without Ground 
   <div class="publication">
     <div class="img"><img class="img_responsive" src="/images/rare.png"></div>
     <div class="text">
-      <div class="title"><a name="etal20">RARE: Image reconstruction using deep priors learned without groundtruth</a></div>
+      <div class="title"><strong>RARE: Image reconstruction using deep priors learned without groundtruth</strong></div>
       <div class="authors">
         <span class="author"><a href="https://scholar.google.com/citations?user=KEucBooAAAAJ&hl=en">Jiaming Liu</a></span>,
         <span class="author me">Yu Sun</span>,
@@ -254,7 +298,7 @@ MoDIR: Motion-Compensated Training for Deep Image Reconstruction without Ground 
   <div class="publication">
     <div class="img"><img class="img_responsive" src="/images/mrm.png"></div>
     <div class="text">
-      <div class="title"><a name="etal20">Deep learning using a biophysical model for Robust and Accelerated Reconstruction (RoAR) of quantitative and artifact-free R2* images</a></div>
+      <div class="title"><strong>Deep learning using a biophysical model for Robust and Accelerated Reconstruction (RoAR) of quantitative and artifact-free R2* images</strong></div>
       <div class="authors">
         <span class="author">Max Torop</span>,
         <span class="author">Satya Kothapalli</span>,
@@ -279,7 +323,7 @@ MoDIR: Motion-Compensated Training for Deep Image Reconstruction without Ground 
   <div class="publication">
     <div class="img"><img class="img_responsive" src="/images/Wu-etal19.png"></div>
     <div class="text">
-      <div class="title"><a name="etal19">Online Regularization by Denoising with Applications to Phase Retrieval</a></div>
+      <div class="title"><strong>Online Regularization by Denoising with Applications to Phase Retrieval</strong></div>
       <div class="authors">
         <span class="author"><a href="https://zihuiwu.github.io/">Zihui Wu</a></span>,
         <span class="author me">Yu Sun</span>,
@@ -299,7 +343,7 @@ MoDIR: Motion-Compensated Training for Deep Image Reconstruction without Ground 
   <div class="publication">
     <div class="img"><img class="img_responsive" src="/images/dip-tv.png"></div>
     <div class="text">
-      <div class="title"><a name="etal19">Image Restoration Using Total Variation Regularized Deep Image Prior</a></div>
+      <div class="title"><strong>Image Restoration Using Total Variation Regularized Deep Image Prior</strong></div>
       <div class="authors">
         <span class="author"><a href="https://scholar.google.com/citations?user=KEucBooAAAAJ&hl=en">Jiaming Liu</a></span>,
         <span class="author me">Yu Sun</span>,
@@ -319,7 +363,7 @@ MoDIR: Motion-Compensated Training for Deep Image Reconstruction without Ground 
   <div class="publication">
     <div class="img"><img class="img_responsive" src="/images/Ptychography.png"></div>
     <div class="text">
-      <div class="title"><a name="etal19">Regularized Fourier ptychography using an online plug-and-play algorithm</a></div>
+      <div class="title"><strong>Regularized Fourier ptychography using an online plug-and-play algorithm</strong></div>
       <div class="authors">
         <span class="author me">Yu Sun</span>,
         <span class="author"><a href="http://brendt.wohlberg.net/">Brendt Wohlberg</a></span>,
@@ -341,7 +385,7 @@ MoDIR: Motion-Compensated Training for Deep Image Reconstruction without Ground 
   <div class="publication">
     <div class="img"><img class="img_responsive" src="/images/PnP.png"></div>
     <div class="text">
-      <div class="title"><a name="etal19">An online Plug-and-play algorithm for regularized image reconstruction</a></div>
+      <div class="title"><strong>An online Plug-and-play algorithm for regularized image reconstruction</strong></div>
       <div class="authors">
         <span class="author me">Yu Sun</span>,
         <span class="author"><a href="http://brendt.wohlberg.net/">Brendt Wohlberg</a></span>,
@@ -360,7 +404,7 @@ MoDIR: Motion-Compensated Training for Deep Image Reconstruction without Ground 
   <div class="publication">
     <div class="img"><img class="img_responsive" src="/images/NeurIPS.png"></div>
     <div class="text">
-      <div class="title"><a name="etal19">Block Coordinate Regularization by Denoising</a></div>
+      <div class="title"><strong>Block Coordinate Regularization by Denoising</strong></div>
       <div class="authors">
         <span class="author me">Yu Sun</span>,
         <span class="author"><a href="https://scholar.google.com/citations?user=KEucBooAAAAJ&hl=en">Jiaming Liu</a></span>,
@@ -384,7 +428,7 @@ MoDIR: Motion-Compensated Training for Deep Image Reconstruction without Ground 
   <div class="publication">
     <div class="img"><img class="img_responsive" src="/images/Sun-etal18.png"></div>
     <div class="text">
-      <div class="title"><a name="etal18">Efficient and accurate inversion of multiple scattering with deep learning</a></div>
+      <div class="title"><strong>Efficient and accurate inversion of multiple scattering with deep learning</strong></div>
       <div class="authors">
         <span class="author me">Yu Sun</span>,
         <span class="author"><a href="https://www.cse.wustl.edu/~zhihao.xia/">Zihui Wu</a></span>,
