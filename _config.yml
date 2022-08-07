@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Yu Sun 孙彧"
-  avatar           : "photo.png"
-  bio              : "PhD candidate @ WUSTL CIG"
-  location         : "St. Louis, MO"
+  avatar           : "yusun.jpg"
+  bio              : "Postdoc @ Caltech"
+  location         : "Pasadena, CA"
   employer         :
   pubmed           :
   googlescholar    : &googlescholar "https://scholar.google.com/citations?hl=en&user=5c52t54AAAAJ"
